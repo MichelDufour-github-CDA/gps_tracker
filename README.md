@@ -24,11 +24,13 @@ flutter pub add geolocator
 ````
 
 - Ajout du routeur
+https://pub.dev/packages/go_router
 ````
 flutter pub add go_router
 ````
 
 - Ajout du cubic
+https://pub.dev/packages/flutter_bloc
 ````
 flutter pub add flutter_bloc
 ````
